@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+anthropic
+python-multipart
+aiofiles
+jinja2
+python-dotenv
